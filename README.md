@@ -30,10 +30,11 @@ How It Works
 Grow further: Expand your analysis with new questions and features as you learn.
 
 Example Data Format
-Date	MaxTemperature_C	MinTemperature_C	AvgHumidity_Pct	Rainfall_mm
-2025-08-01	31	22	55	0.0
-2025-08-02	34	21	58	12.3
-...	...	...	...	...
+| Date       | MaxTemperature_C | MinTemperature_C | AvgHumidity_Pct | Rainfall_mm |
+|------------|------------------|------------------|-----------------|-------------|
+| 2025-08-01 | 31               | 22               | 55              | 0.0         |
+| 2025-08-02 | 34               | 21               | 58              | 12.3        |
+
 Requirements
 Python 3.6 or higher
 
